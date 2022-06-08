@@ -1,6 +1,6 @@
 <h3 align="center">YO SOY DE ECUADOR</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anndyj2002&label=Profile%20views&color=0e75b6&style=flat" alt="anndyj2002" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/64540529?s=400&u=122a34e63478e0d86b823f9c65bb9b6ce8e4977c&v=4" alt="anndyj2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anndyj2002" alt="anndyj2002" /></a > </p>
 
