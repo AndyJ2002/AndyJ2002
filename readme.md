@@ -1,8 +1,8 @@
 <h3 align="center">YO SOY DE ECUADOR</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/64540529?s=400&u=122a34e63478e0d86b823f9c65bb9b6ce8e4977c&v=4" alt="anndyj2002" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/64540529?s=400&u=122a34e63478e0d86b823f9c65bb9b6ce8e4977c&v=4 " height="300" width="300" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anndyj2002" alt="anndyj2002" /></a > </p>
+- Mi nombre es Anndy Amay soy estudiante de la Universidad de las fuerzas Armadas ESPE sede Latacunga
 
 - 📫 Cómo comunicarse conmigo *jona.amay.76@gmail.com*
 
