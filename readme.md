@@ -1,6 +1,6 @@
 <h3 align="center">YO SOY DE ECUADOR</h3>
 
-<p align="left"> <img src="log_andy.jpeg " height="500" width="1000" /> </p>
+<p align="left"> <img src="log_andy.jpeg " height="400" width="1000" /> </p>
 
 - Mi nombre es Anndy Amay soy estudiante de la Universidad de las fuerzas Armadas ESPE sede Latacunga
 
